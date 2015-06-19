@@ -1,7 +1,7 @@
 {
   "name": "mongoose-dbref",
   "description": "Plugin support for DBRef in Mongoose",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": {
     "name": "Stuart Hudson",
     "email": "goulash1971@yahoo.com"
